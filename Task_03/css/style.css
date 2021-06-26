@@ -137,7 +137,7 @@ img{
 /* ===============END================*/
 
 
-/* Break Point ??  613px  */
+/* Break Point */
 @media(max-width:768px){
 	.header,.main{
 		display: flex;
